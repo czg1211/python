@@ -1,0 +1,12 @@
+类型	说明
+feat	新增功能（feature）
+fix	修复 Bug
+docs	文档更新（如 README、注释）
+style	代码样式调整（如空格、格式化，不改变逻辑）
+refactor	代码重构（既不修复 Bug 也不新增功能）
+perf	性能优化
+test	添加或修改测试用例
+chore	构建过程或辅助工具的变动（如依赖更新、CI 配置）
+revert	回滚之前的提交
+build	构建相关的修改（如打包工具、依赖库版本升级）
+ci	CI/CD 配置或脚本的修改
