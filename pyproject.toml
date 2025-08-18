@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "loguru>=0.7.3",
+    "pyexecjs>=1.5.1",
     "requests>=2.32.4",
 ]
